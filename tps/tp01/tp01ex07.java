@@ -25,8 +25,7 @@ public class tp01ex07 {
       }
 
       inputstream.close();
-    } catch (Exception e) {
-    }
+    } catch (Exception e) { }
 
     return response;
   }

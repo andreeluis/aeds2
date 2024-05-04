@@ -71,8 +71,8 @@ public class tp01ex05 {
       if (texto.charAt(i) == 'o' && texto.charAt(i + 1) == 'r' &&
           (texto.charAt(i + 3) == '1' || texto.charAt(i + 3) == '0') &&
           (texto.charAt(i + 5) == '1' || texto.charAt(i + 5) == '0')) {
-        // or(A,B,C)
-        // and(A,B,C,D)
+        //   or(A,B,C)
+        //   and(A,B,C,D)
         // i+0123456789
         if (texto.charAt(i + 6) == ')') {
           novoTexto += (texto.charAt(i + 3) == '1' || texto.charAt(i + 5) == '1') ? 1 : 0;
