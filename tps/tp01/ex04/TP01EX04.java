@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class tp01ex04 {
+public class TP01EX04 {
   private static Random gerador = new Random();
 
   private static void trocaLetra(String texto) {

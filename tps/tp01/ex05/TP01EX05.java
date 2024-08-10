@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class tp01ex05 {
+public class TP01EX05 {
   private static String substituiValores(int[] portas, String texto) {
     String novoTexto = "";
 

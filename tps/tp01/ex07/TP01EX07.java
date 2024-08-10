@@ -7,7 +7,7 @@ import java.net.URI;
 import java.net.URL;
 import java.util.Scanner;
 
-public class tp01ex07 {
+public class TP01EX07 {
   private static String httpRequest(String url) {
     URL site;
     InputStream inputstream;

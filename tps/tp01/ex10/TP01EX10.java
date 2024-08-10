@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class tp01ex10 {
+public class TP01EX10 {
   private static Boolean palindromo(String texto, int i) {
     Boolean resp;
 

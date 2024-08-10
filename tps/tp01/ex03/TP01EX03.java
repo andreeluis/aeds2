@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class tp01ex03 {
+class TP01EX03 {
   private static String cifraCesar(String texto) {
     int tam = texto.length() - 1;
 

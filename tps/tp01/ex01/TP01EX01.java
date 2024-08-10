@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class tp01ex01 {
+class TP01EX01 {
 	private static Boolean ehPalindromo(String texto) {
 		int tam = texto.length() - 1;
 

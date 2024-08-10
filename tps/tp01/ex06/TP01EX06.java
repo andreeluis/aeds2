@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class tp01ex06 {
+public class TP01EX06 {
   private static boolean ehVogal(char letra) {
     char[] vogais = { 'A', 'a', 'E', 'e', 'I', 'i', 'O', 'o', 'U', 'u' };
 

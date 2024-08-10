@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class tp01ex12 {
+class TP01EX12 {
   private static String cifraCesar(String texto) {
     return cifraCesar(texto, 0);
   }

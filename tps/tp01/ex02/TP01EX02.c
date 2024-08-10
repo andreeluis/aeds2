@@ -19,7 +19,7 @@ int main()
 {
   char texto[1000];
 
-  scanf(" %[^\n]", texto);
+  scanf(" %[^\n\r]", texto);
 
   while (strcmp(texto, "FIM"))
   {
@@ -28,7 +28,7 @@ int main()
     else
       printf("NAO\n");
 
-    scanf(" %[^\n]", texto);
+    scanf(" %[^\n\r]", texto);
   }
 
   return 0;
