@@ -1,8 +1,3 @@
-/* O algoritmo de busca binária é um excelente algoritmo de busca (em uma lista ordenada). Ele precisa receber uma lista ordenada de elementos, e consegue fazer a busca em:
-  - O(log n): no pior caso
-  - O(1): no melhor caso
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>

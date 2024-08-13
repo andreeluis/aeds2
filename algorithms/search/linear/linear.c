@@ -1,8 +1,3 @@
-/* O algoritmo de busca sequencial é algoritmo de busca. Ele pode receber tanto uma lista ordenada de elementos ou desordenada, e consegue fazer a busca em:
-  - O(n): no pior caso
-  - O(1): no melhor caso
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
