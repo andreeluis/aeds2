@@ -1,64 +1,60 @@
 # Trabalhos Práticos
 
 ## Trabalho Prático 01
-Exercícios do Trabalho Prático 01:
-1. **Palíndromo (JAVA)**
-2. **Palíndromo em C**
-3. **Ciframento de César (JAVA)**
-4. **Alteração Aleatória (JAVA)** 
-5. **Álgebra Booleana (JAVA)**
-6. **Is (JAVA)**
-7. **Leitura de Pagina HTML (JAVA)**
-8. **Arquivo (JAVA)**
-9. **Arquivo em C**
-10. **RECURSIVO - Palíndromo**
-11. **RECURSIVO - Palíndromo em C**
-12. **RECURSIVO - Ciframento de Cesar**
-13. **RECURSIVO - Alteração Aleatória em C**
-14. **RECURSIVO - Álgebra Booleana**
-15. **RECURSIVO - Is**
+1. [Palíndromo (JAVA)](./tp01/ex01/)
+2. [Palíndromo em C](./tp01/ex02/)
+3. [Ciframento de César (JAVA)](./tp01/ex03/)
+4. [Alteração Aleatória (JAVA)](./tp01/ex04/)
+5. [Álgebra Booleana (JAVA)](./tp01/ex05/)
+6. [Is (JAVA)](./tp01/ex06/)
+7. [Leitura de Pagina HTML (JAVA)](./tp01/ex07/)
+8. [Arquivo (JAVA)](./tp01/ex08/)
+9. [Arquivo em C](./tp01/ex09/)
+10. [RECURSIVO - Palíndromo](./tp01/ex10/)
+11. [RECURSIVO - Palíndromo em C](./tp01/ex11/)
+12. [RECURSIVO - Ciframento de Cesar](./tp01/ex12/)
+13. [RECURSIVO - Alteração Aleatória em C](./tp01/ex13/)
+14. [RECURSIVO - Álgebra Booleana](./tp01/ex14/)
+15. [RECURSIVO - Is](./tp01/ex15/)
 
 ## Trabalho Prático 02
-Exercícios do Trabalho Prático 02:
-1. **Classe em Java**
-2. **Registro em C**
-3. **Pesquisa Sequencial (JAVA)**
-4. **Pesquisa Binária em C**
-5. **Ordenação por Seleção (JAVA)**
-6. **Ordenação por Seleção Recursiva em C**
-7. **Ordenação por Inserção (JAVA)**
-8. **Shellsort em C**
-9. **Heapsort (JAVA)**
-10. **Quicksort em C**
-11. **Counting Sort  (JAVA)**
-12. **Bolha em C**
-13. **Mergesort (JAVA)**
-14. **Radixsort em C**
-15. **Ordenação PARCIAL por Seleção (JAVA)**
-16. **Ordenação PARCIAL por Inserção em C**
-17. **Heapsort PARCIAL em C**
-18. **Quicksort PARCIAL (JAVA)**
+1. [Classe em Java](./tp02/ex01/)
+2. [Registro em C](./tp02/ex02/)
+3. [Pesquisa Sequencial (JAVA)](./tp02/ex03/)
+4. [Pesquisa Binária em C](./tp02/ex04/)
+5. [Ordenação por Seleção (JAVA)](./tp02/ex05/)
+6. [Ordenação por Seleção Recursiva em C](./tp02/ex06/)
+7. [Ordenação por Inserção (JAVA)](./tp02/ex07/)
+8. [Shellsort em C](./tp02/ex08/)
+9. [Heapsort (JAVA)](./tp02/ex09/)
+10. [Quicksort em C](./tp02/ex10/)
+11. [Counting Sort (JAVA)](./tp02/ex11/)
+12. [Bolha em C](./tp02/ex12/)
+13. [Mergesort (JAVA)](./tp02/ex13/)
+14. [Radixsort em C](./tp02/ex14/)
+15. [Ordenação PARCIAL por Seleção (JAVA)](./tp02/ex15/)
+16. Ordenação PARCIAL por Inserção em C ⚠️
+17. [Heapsort PARCIAL em C](./tp02/ex17/)
+18. [Quicksort PARCIAL (JAVA)](./tp02/ex18/)
 
 ## Trabalho Prático 03
-Exercícios do Trabalho Prático 03:
-1. **Lista com Alocação Sequencial (JAVA)**
-2. **Lista com Alocação Sequencial em C**
-3. **Pilha com Alocação Sequencial (JAVA)**
-4. **Fila Circular com Alocação Sequencial em C**
-5. **Lista com Alocação Flexível (JAVA)**
-6. **Pilha com Alocação Flexível (JAVA)**
-7. **Fila com Alocação Flexível em C**
-8. **Quicksort com LISTA DINÂMICA DUPLAMENTE ENCADEADA em C**
-9. **Matriz Dinâmica (JAVA)**
-10. **Pilha com Alocação Flexível em C**
-11. **Quicksort com LISTA DINÂMICA DUPLAMENTE ENCADEADA (JAVA)**
+1. [Lista com Alocação Sequencial (JAVA)](./tp03/ex01/)
+2. [Lista com Alocação Sequencial em C](./tp03/ex02/)
+3. [Pilha com Alocação Sequencial (JAVA)](./tp03/ex03/)
+4. [Fila Circular com Alocação Sequencial em C](./tp03/ex04/)
+5. [Lista com Alocação Flexível (JAVA)](./tp03/ex05/)
+6. [Pilha com Alocação Flexível (JAVA)](./tp03/ex06/)
+7. [Fila com Alocação Flexível em C](./tp03/ex07/)
+8. [Quicksort com Lista Dinâmica Duplamente Encadeada em C](./tp03/ex08/)
+9. [Matriz Dinâmica (JAVA)](./tp03/ex09/)
+10. [Pilha com Alocação Flexível em C](./tp03/ex10/)
+11. [Quicksort com Lista Dinâmica Duplamente Encadeada (JAVA)](./tp03/ex11/)
 
 ## Trabalho Prático 04
-Exercícios do Trabalho Prático 04:
-1. **Árvore Binária em (JAVA)**
-2. **Árvore Binária de Árvore Binárias (JAVA)**
-3. **Árvore AVL em C**
-4. **Árvore Alvinegra (JAVA)**
-5. **Tabela Hash Direta com Reserva (JAVA)**
-6. **Tabela Hash Direta com Rehash (JAVA)**
-7. **Tabela Hash Indireta com Lista Simples em C**
+1. [Árvore Binária em (JAVA)](./tp04/ex01/)
+2. [Árvore Binária de Árvore Binárias (JAVA)](./tp04/ex02/)
+3. [Árvore AVL em C](./tp04/ex03/)
+4. [Árvore Alvinegra (JAVA)](./tp04/ex04/)
+5. [Tabela Hash Direta com Reserva (JAVA)](./tp04/ex05/)
+6. [Tabela Hash Direta com Rehash (JAVA)](./tp04/ex06/)
+7. [Tabela Hash Indireta com Lista Simples em C](./tp04/ex07/)
